@@ -3,3 +3,4 @@ C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applicati
 C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\multidimensional_arrays\multidimensional_arrays\bin\Debug\multidimensional_arrays.pdb
 C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\multidimensional_arrays\multidimensional_arrays\obj\Debug\multidimensional_arrays.exe
 C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\multidimensional_arrays\multidimensional_arrays\obj\Debug\multidimensional_arrays.pdb
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\multidimensional_arrays\multidimensional_arrays\obj\Debug\multidimensional_arrays.csprojResolveAssemblyReference.cache
