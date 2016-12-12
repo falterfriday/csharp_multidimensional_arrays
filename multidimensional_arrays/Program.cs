@@ -28,6 +28,10 @@ namespace multidimensional_arrays
             {
                 for (int j = 0; j < 3; j++)
                 {
+                    //will console out the first array
+                    //adding tabs between each value
+                    //then once the 3rd value is hit
+                    //creates new line
                     Console.Write(sections[i,j] + "\t");
                     if ((j+1) % 3 == 0)
                     {
